@@ -1,0 +1,29 @@
+LOG___ISING_MODEL_102
+
+
+
+
+INPUT PARAMETERS:
+
+       size_exp = 8
+          shape = (256, 256)
+
+custom_coupling = True
+       clusters = 500
+  diam_mean_var = (6, 1)
+   amp_mean_var = (0.1, 1)
+Initial Out Landscape <M>, Min, Max : 0.5509490966796875 , -0.010384298085971364 , 0.01091485473466191
+Initial Out_rescaled Landscape <M>, Min, Max : 0.5509490966796875 , -0.9513913229641366 , 1.0
+
+spin Initialization <M> = 0.5509490966796875
+
+Landscape Difference Metrics: 
+   Average: 0.018136071
+   Maximum: 0.562967
+   Minimum: 1.5978003e-08
+
+Ising Coupling Metrics:
+   Average: -0.99999964
+   Maximum: -0.5444317
+   Minimum: -1.3854222
+
