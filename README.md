@@ -1,2 +1,2 @@
 # ICA
- Astrocyte Response to Ising Criticality
+ ***Astrocytes learn to detect and signal deviations from critical brain dynamics***
